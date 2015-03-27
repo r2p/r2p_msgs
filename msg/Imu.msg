@@ -1,3 +1,4 @@
-r2p_msgs/Vector3_32 angular_velocity
-r2p_msgs/Vector3_32 linear_acceleration
-r2p_msgs/Vector3_32 magnetic_field
+float32 roll
+float32 pitch
+float32 yaw
+

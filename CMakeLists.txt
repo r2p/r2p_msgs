@@ -11,6 +11,8 @@ add_message_files(
   EncoderStamped.msg
   Imu.msg
   ImuStamped.msg
+  ImuRaw.msg
+  ImuRawStamped.msg
   Led.msg
   PidParameters.msg
   Proximity.msg
